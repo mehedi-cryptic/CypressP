@@ -1,3 +1,3 @@
 # CypressP
 
-Basic cypress for learning purposes
+Basic cypress test scripts and test cases for learning purposes
